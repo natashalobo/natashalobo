@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Natasha Lobo
 
 🎓 Master's in Business Analytics @ Syracuse University | Bachelor's in Computer Engineering @ University of Mumbai  
-🧪 Business Analyst | 2+ years of experience | Lean Six Sigma Black Belt CSSC  
+🧪 Business Analyst | 3+ years of experience | Lean Six Sigma Black Belt CSSC  
 🌐 Passionate about using data, analytics, and AI to solve real-world problems and drive better business decisions.
 
 ---

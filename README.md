@@ -1,15 +1,73 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I'm Natasha Lobo — a data-driven problem solver with a background in Computer Science and Business Analytics. I enjoy turning complex data into actionable insights and building solutions that automate processes and support better decision-making.<br><br>🔭 I’m currently working on machine learning research projects and data analytics solutions.  <br>👯 I’m looking to collaborate on data analytics, machine learning, and business intelligence projects.  <br>🌱 I’m currently learning advanced machine learning techniques and AI applications.  <br>💬 Ask me about SQL, Python, Power BI, data analytics, and process optimization.  <br>⚡ Fun fact: I love transforming messy datasets into meaningful insights that drive real business impact.
+# 👋 Hi there, I'm Natasha Lobo
 
-
-# 💻 Tech Stack:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natashalobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=natashalobo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natashalobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Master's in Business Analytics @ Syracuse University | Bachelor's in Computer Engineering @ University of Mumbai  
+🧪 Business Analyst | 2+ years of experience | Lean Six Sigma Black Belt CSSC  
+🌐 Passionate about using data, analytics, and AI to solve real-world problems and drive better business decisions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=natashalobo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 About Me
+
+🔭 I’m currently working on machine learning research projects and data analytics solutions.
+👯 I’m looking to collaborate on data analytics, machine learning, and business intelligence projects.
+🌱 I’m currently learning advanced machine learning techniques and AI applications.
+💬 Ask me about SQL, Python, Power BI, data analytics, and process optimization.
+⚡ Fun fact: I love transforming messy datasets into meaningful insights that drive real business impact.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Programming:**  
+`Python` | `SQL` | `R`
+
+**Data Analysis & Visualization:**  
+`Power BI` | `Tableau` | `Excel` | `Power Query` | `Power Pivot`
+
+**Machine Learning & Data Science:**  
+`TensorFlow` | `scikit-learn` | `Pandas` | `NumPy`
+
+**Databases & Data Management:**  
+`MySQL` | `PostgreSQL` | `BigQuery`
+
+**Analytics & Business Tools:**  
+`Google Analytics` | `A/B Testing` | `Statistical Analysis` | `Regression`
+
+**Process Improvement & Methodologies:**  
+`Lean Six Sigma` | `DMAIC` | `Data-Driven Decision Making`
+
+**Tools & Platforms:**  
+`Git` | `Jupyter Notebook` | `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+- **⚡ EV Charger Competitive Intelligence Automation** – Built a Python-based web scraping pipeline to extract EV charger specifications from 30+ manufacturers and compile them into structured Excel datasets, reducing manual research time by 95%.
+
+- **📊 Healthcare Outreach Analytics Dashboard** – Developed Power BI dashboards analyzing CRM and hospital datasets to identify high-potential outreach targets, generating 120+ qualified leads and improving campaign efficiency.
+
+- **📈 Macroeconomic Forecasting with Machine Learning** – Built ML models using Python and TensorFlow to analyze multi-year datasets including S&P 500, Bitcoin, Gold, Crude Oil, and Federal Funds Rate to identify macroeconomic trends.
+
+- **🔍 Business Analytics Projects** – Applied regression analysis, statistical modeling, and A/B testing using R, SQL, and Excel to derive business insights from large retail and marketing datasets.
+
+*(More projects and research coming soon!)*
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Machine Learning techniques from MIT’s Periodic Table of Machine Learning  
+- Building end-to-end data pipelines using Python and SQL  
+- Advanced Power BI dashboard design and analytics storytelling
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/natasha-lobo)
+- 📧 natashalobo1414@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories, fork, and collaborate. I'm always open to learning and building together!*
